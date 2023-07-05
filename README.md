@@ -34,8 +34,6 @@ jalankan perintah diatas pada terminal 'Server' terlebih dahulu, baru jalankan p
 #### graphql
 #### jsonwebtoken
 
-![Screenshot (1144)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/a8109adf-45b7-415f-a2e9-8ecd377d7ba0)
-
-![Screenshot (1146)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/b294ed4d-793d-432b-af96-d7051cb81327)
-
-![Screenshot (1147)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/11112368-d41a-4307-abf0-91bc67cd237c)
+![Screenshot (1144)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/fdc023e6-bba2-430e-8237-89b057291d1f)
+![Screenshot (1145)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/43043a1f-ea41-4dce-8225-06d85b913094)
+![Screenshot (1148)](https://github.com/SetyoBimantoro/project_akhir_pwbd/assets/138221347/b29f2543-8053-4388-acc3-232defde558c)
